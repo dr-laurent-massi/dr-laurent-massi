@@ -1,0 +1,65 @@
+{
+  "identity": {
+    "name": "Dr. Laurent Massi",
+    "title": "Doctor in Material Sciences & Expert Gemmologist",
+    "credentials": ["PhD", "Graduate Gemologist (G.G.)", "A.J.P."],
+    "contact": {
+      "email": "laurent@laurentmassi.com",
+      "website": "laurentmassi.com"
+    }
+  },
+  "current_role": {
+    "organization": "SOG Paris - School of Operational Gemology",
+    "position": "Founder & Director",
+    "focus": ["Operational Education", "Consulting", "Gemmological Training"]
+  },
+  "expertise_matrix": {
+    "scientific_research": {
+      "specialization": "Diamond defects (Brown & Hydrogen-rich diamonds)",
+      "techniques": ["Raman Spectroscopy", "Infrared Spectroscopy", "Crystallography"],
+      "academic_background": "PhD - University of Nantes (IMN Jean Rouxel)"
+    },
+    "gemstone_specialties": [
+      "Rubies (Mozambique, Burma/Mogok)",
+      "Sapphires",
+      "Inclusions analysis",
+      "Phenomenal gemstones"
+    ],
+    "technical_mastery": [
+      "Professional Photomicrography",
+      "Laboratory Management (GIA, AIGS standards)",
+      "Gemstone Certification"
+    ]
+  },
+  "professional_metrics": {
+    "total_experience_years": 27,
+    "international_conferences": 110,
+    "field_exploration": "30+ countries including Thailand, Sri Lanka, Vietnam, Burma",
+    "languages": {
+      "French": "Native",
+      "English": "Fluent",
+      "Thai": "Intermediate"
+    }
+  },
+  "career_highlights": [
+    {
+      "org": "GIA Thailand",
+      "role": "Director",
+      "years": "2011-2013"
+    },
+    {
+      "org": "AIGS Gemological Laboratory",
+      "role": "Director",
+      "years": "2007-2010"
+    },
+    {
+      "org": "AGAT Gemology School",
+      "role": "President & Co-founder",
+      "years": "2019-2021"
+    }
+  ],
+  "author_status": {
+    "blog": "Sous l’Oeil du Gemmologue",
+    "publications": ["Gems and Gemology", "Diamond and Related Materials", "Revue Française de Gemmologie"]
+  }
+}
