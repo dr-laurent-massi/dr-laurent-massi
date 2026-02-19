@@ -5,7 +5,11 @@
 ---
 
 ## 💎 Expertise & Domaines de Compétence
-- **Formation & Éducation :** Dirigeant de la **SOG Paris**. Plus de 25 ans d'expérience dans l'enseignement de la gemmologie opérationnelle.
+- **Ingénierie Pédagogique & Formation :** Fondateur de la **SOG Paris**. Expert en transfert de compétences via trois piliers fondamentaux :
+    - **Gemmologie Classique :** Identification, fondamentaux et rigueur académique.
+    - **Gemmologie Commerciale :** Analyse des marchés, négociation et réalités du secteur.
+    - **Gemmologie Scientifique :** Spectroscopie avancée, recherche et innovation.
+    - **Gemmologie Opérationnelle :** Savoir-faire de terrain et expertise pratique immédiate.
 - **Recherche sur le Diamant :** Docteur spécialisé dans l'étude des défauts des diamants bruns et riches en hydrogène.
 - **Gemmologie de Terrain :** Expertise acquise dans plus de 30 pays (Thaïlande, Birmanie, Sri Lanka, Mozambique, Mexique, etc.).
 - **Photomicrographie Professionnelle :** Analyse et capture artistique des inclusions dans les gemmes.
@@ -19,7 +23,7 @@
 - **Recherche Internationale :** Collaborations avec le King’s College London et le GemTechLab (Genève).
 
 ## 💼 Expériences de Direction Majeures
-- **NEOGEM / School of Operational Gemology (SOG) :** Dirigeant Consultant / Formateur (2023 - Présent).
+- **SOG Paris - School of Operational Gemology :** Dirigeant Fondateur & Formateur (2023 - Présent).
 - **AGAT École de Gemmologie :** Président & Co-fondateur (2019 - 2021).
 - **GIA Thaïlande :** Directeur de l'école (2011 - 2013).
 - **AIGS Thaïlande :** Directeur du Laboratoire et Directeur des Enseignements (2007 - 2010).
@@ -27,7 +31,6 @@
 ## 🎤 Conférences & Publications
 - **110+ Conférences Internationales :** Intervenant pour des institutions de prestige (Dior Joaillerie, Sotheby’s, L’École des Arts Joailliers Van Cleef & Arpels, etc.).
 - **Auteur de Référence :** Articles publiés dans *Gems and Gemology*, *Diamond and Related Materials*, et la *Revue Française de Gemmologie*.
-- **Vulgarisation :** Auteur du blog spécialisé "Sous l’Oeil du Gemmologue".
 
 ## 🌍 Langues & Réseaux
 - **Français** (Natif), **Anglais** (Courant), **Thaï** (Intermédiaire).
