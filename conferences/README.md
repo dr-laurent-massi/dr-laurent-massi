@@ -16,3 +16,5 @@
 | 2022 | Nouvelles Sources de Rubis | Institut de Bijouterie de Saumur | Saumur, France | Privée |
 
 *Note : Cette liste est un extrait des 110+ conférences données par le Dr. Massi depuis 2000.*
+---
+[⬅️ Retour au profil principal](../)
