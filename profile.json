@@ -8,10 +8,23 @@
       "website": "laurentmassi.com"
     }
   },
-  "current_role": {
+  "core_business_education": {
     "organization": "SOG Paris - School of Operational Gemology",
-    "position": "Founder & Director",
-    "focus": ["Operational Education", "Consulting", "Gemmological Training"]
+    "position": "Founder, Director & Lead Instructor",
+    "mission": "Operational gemmology training and pedagogical excellence for the 21st century",
+    "educational_pillars": [
+      "Gemmologie Classique (Identification & Fondamentaux)",
+      "Gemmologie Commerciale (Marchés & Négociation)",
+      "Gemmologie Scientifique (Spectroscopie & Recherche)",
+      "Gemmologie Opérationnelle (Savoir-faire de terrain)"
+    ],
+    "pedagogical_expertise": [
+      "Curriculum Design & Educational Strategy",
+      "Skill-based Learning Methodology",
+      "Operational Knowledge Transfer",
+      "Professional Training for Luxury & Jewelry Sectors",
+      "Educational Leadership"
+    ]
   },
   "expertise_matrix": {
     "scientific_research": {
@@ -23,7 +36,8 @@
       "Rubies (Mozambique, Burma/Mogok)",
       "Sapphires",
       "Inclusions analysis",
-      "Phenomenal gemstones"
+      "Phenomenal gemstones",
+      "Traceability & Ethical Sourcing"
     ],
     "technical_mastery": [
       "Professional Photomicrography",
@@ -56,6 +70,11 @@
       "org": "AGAT Gemology School",
       "role": "President & Co-founder",
       "years": "2019-2021"
+    },
+    {
+      "org": "ING - Institut National de Gemmologie",
+      "role": "Professor of Gemmology and Metallurgy",
+      "years": "2000-2005"
     }
   ],
   "author_status": {
