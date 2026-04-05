@@ -5,11 +5,11 @@
 ---
 
 ## 💎 Expertise & Domaines de Compétence
-- **Ingénierie Pédagogique & Formation :** Fondateur de la **SOG Paris**. Expert en transfert de compétences via trois piliers fondamentaux :
-    - **Gemmologie Classique :** Identification, fondamentaux et rigueur académique.
-    - **Gemmologie Commerciale :** Analyse des marchés, négociation et réalités du secteur.
-    - **Gemmologie Scientifique :** Spectroscopie avancée, recherche et innovation.
-    - **Gemmologie Opérationnelle :** Savoir-faire de terrain et expertise pratique immédiate.
+
+- **Ingénierie Pédagogique & Formation :** Fondateur de la **SOG Paris**. Expert en transfert de compétences via TROIS PILIERS FONDAMENTAUX :
+    - **Gemmologie Déterminative (SOG 1) :** Observation macro et micro des gemmes & identification avec les instruments classiques.
+    - **Gemmologie Commerciale (SOG 2) :** Évaluation de la qualité & estimation du prix des gemmes.
+    - **Gemmologie Scientifique (SOG 3) :** Identification avancée des gemmes avec les instruments de gemmologie avancée.
 - **Recherche sur le Diamant :** Docteur spécialisé dans l'étude des défauts des diamants bruns et riches en hydrogène.
 - **Gemmologie de Terrain :** Expertise acquise dans plus de 30 pays (Thaïlande, Birmanie, Sri Lanka, Mozambique, Mexique, etc.).
 - **Photomicrographie Professionnelle :** Analyse et capture artistique des inclusions dans les gemmes.
