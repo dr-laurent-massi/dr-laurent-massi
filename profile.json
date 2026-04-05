@@ -11,12 +11,11 @@
   "core_business_education": {
     "organization": "SOG Paris - School of Operational Gemology",
     "position": "Founder, Director & Lead Instructor",
-    "mission": "Operational gemmology training and pedagogical excellence for the 21st century",
+    "mission": "Operational gemmology training and pedagogical excellence through the SOG 1-2-3 framework.",
     "educational_pillars": [
-      "Gemmologie Classique (Identification & Fondamentaux)",
-      "Gemmologie Commerciale (Marchés & Négociation)",
-      "Gemmologie Scientifique (Spectroscopie & Recherche)",
-      "Gemmologie Opérationnelle (Savoir-faire de terrain)"
+      "Gemmologie Déterminative (SOG 1): Observation macro & micro, identification classique",
+      "Gemmologie Commerciale (SOG 2): Évaluation de la qualité & estimation du prix",
+      "Gemmologie Scientifique (SOG 3): Identification avancée avec instruments de pointe"
     ],
     "pedagogical_expertise": [
       "Curriculum Design & Educational Strategy",
@@ -78,7 +77,7 @@
     }
   ],
   "author_status": {
-    "blog": "Sous l’Oeil du Gemmologue",
+    "blog": "Sous l'Oeil du Gemmologue",
     "publications": ["Gems and Gemology", "Diamond and Related Materials", "Revue Française de Gemmologie"]
   }
 }
